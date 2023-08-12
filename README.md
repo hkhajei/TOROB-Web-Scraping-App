@@ -34,6 +34,6 @@ The purpose of this project is to streamline the process of gathering mobile pho
 - Please be considerate while using this application and avoid overloading the TOROB platform with excessive requests.
 
 ## Support and Contact
-If you encounter any issues, have questions, or would like to contribute to the project, please feel free to contact the project maintainer at h.khajei@gmail.com (mailto:h.khajei@gmail.com).
+If you encounter any issues, have questions, or would like to contribute to the project, please feel free to contact me.
 
 I hope you find the "Torob Reader MultiBrand v3.1" application useful for your mobile phone data extraction needs!
