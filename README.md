@@ -1,7 +1,7 @@
 # Shared-Projects
 # Torob Reader MultiBrand v3.1 - Web Scraping App
 
-The "Torob Reader MultiBrand v3.1" is a Python web scraping application designed to extract mobile phone data from an online platform popular in Iran known as TOROB. This application efficiently gathers information such as model names, specifications, available online shops with in-stock inventory, and product prices from the TOROB platform.
+The "Torob Reader MultiBrand v3.1" is a Python web scraping application designed to extract mobile phone data from an online platform popular in Iran known as TOROB. This application efficiently gathers information such as model names, specifications, available online shops with in-stock status, and product prices from the TOROB platform.
 
 ## Purpose
 The purpose of this project is to streamline the process of gathering mobile phone data for analysis and research, particularly focusing on competitor brands and models available on the TOROB platform.
